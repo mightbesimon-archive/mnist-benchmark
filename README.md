@@ -1,8 +1,8 @@
 # MNIST benchmark
 
 benchmarks of different machine learning libraries using the MNIST dataset
-- tensorflow (DNN) : 97.81%
-- tensorflow (CNN) : coming up
+- DNN (tensorflow) : 97.81%
+- CNN (tensorflow) : coming up
 - PyTorch          : coming up
 
 ### Prerequisites
